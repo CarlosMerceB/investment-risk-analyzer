@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*.ipynb
+
+# Database files (too large for GitHub)
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+data_fetch.log
+
+# Power BI
+*.pbix.tmp
+*.pbix~
+
+# Operating System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data files (optional - exclude if too large)
+data/raw/*.db
+data/raw/*.csv
+
+# Credentials (IMPORTANT - never commit)
+config_secrets.py
+*.env
+.env
+
+# Temporary files
+*.tmp
+temp/
+tmp/
