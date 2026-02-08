@@ -13,6 +13,14 @@ This project analyzes three investment strategies (Conservative, Balanced, Aggre
 - 99% total return with 29% volatility and -26% worst-case scenario
 - Comprehensive risk-adjusted performance analysis across multiple metrics
 
+- ## Dashboard Preview
+
+### Page 1: Executive Summary
+![Executive Summary](dashboards/screenshots/page1_executive.png)
+
+### Page 2: Risk Analysis
+![Risk Analysis](dashboards/screenshots/page2_risk_analysis.
+
 ---
 
 ## Technical Stack
