@@ -270,19 +270,6 @@ Suitable for 70% of growth-focused investors.
 - Efficient frontier optimization (Markowitz)
 - Real-time data refresh
 - Mobile dashboard version
-
----
-
-## Author
-
-**Carlos** - Business Intelligence Analyst
-**Date:** February 2026
-**Purpose:** Portfolio project for BI/BA/Strategy Analyst roles
-
-Demonstrates end-to-end analytics: data acquisition, modeling, analysis, and visualization with emphasis on financial risk management.
-
----
-
 ## License
 
 MIT License - See LICENSE file for details.
