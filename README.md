@@ -7,7 +7,7 @@ A comprehensive portfolio risk analysis system built with Python, SQLite, and Po
 ## 🔗 Quick Links
 
 **Documentation:**
-- [📊 Business Analysis & Recommendations](docs/BUSINESS_SUMMARY.md)
+- [📊 Metrics Analysis & Recommendations](docs/PORTFOLIO_METRICS_ANALYSIS.md)
 - [💻 Technical Guide - All DAX Measures](docs/DAX_MEASURES.md)
 
 ---
