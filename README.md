@@ -19,7 +19,7 @@ This project analyzes three investment strategies (Conservative, Balanced, Aggre
 ![Executive Summary](dashboards/screenshots/page1_executive.png)
 
 ### Page 2: Risk Analysis
-![Risk Analysis](dashboards/screenshots/page2_risk_analysis.
+![Risk Analysis](dashboards/screenshots/page2_risk_analysis.png).
 
 ---
 
