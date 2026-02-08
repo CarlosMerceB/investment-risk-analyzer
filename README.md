@@ -4,6 +4,14 @@ A comprehensive portfolio risk analysis system built with Python, SQLite, and Po
 
 ---
 
+## 🔗 Quick Links
+
+**Documentation:**
+- [📊 Business Analysis & Recommendations](docs/BUSINESS_SUMMARY.md)
+- [💻 Technical Guide - All DAX Measures](docs/DAX_MEASURES.md)
+
+---
+
 ## Project Overview
 
 This project analyzes three investment strategies (Conservative, Balanced, Aggressive) over a 2-year period (2024-2026), demonstrating data engineering, financial modeling, and business intelligence capabilities.
